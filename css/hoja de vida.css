@@ -16,7 +16,7 @@ transform: skewY(-4deg);
     width: 50%;
     height: 50%;
     position: absolute;
-    left: 25%;
+    left: 40%;
 }
 
 .name .contenido .p-1 {
@@ -90,4 +90,16 @@ transform: skewY(-4deg);
     font-weight: normal;
     font-size: large;
     display: inline;
+}
+
+.info span {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    background: rgb(197, 228, 24);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
 }
